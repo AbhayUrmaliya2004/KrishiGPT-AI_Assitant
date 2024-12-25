@@ -45,3 +45,5 @@ KrishiGPT is seamlessly integrated with the Krishiverse App, ensuring smooth int
 
 ---
 
+**These file are arranged in a way that it runs on google colab by integrating with google drive for taking data and saved model**
+
