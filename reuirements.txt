@@ -1,0 +1,9 @@
+Pandas
+Flask
+transformers
+bitsandbytes # for loading the model in 4-bit configuration
+accelerate==0.21.0 # for faster inference
+peft==0.4.0
+transformers==4.31.0
+trl==0.4.7
+tensorboard
