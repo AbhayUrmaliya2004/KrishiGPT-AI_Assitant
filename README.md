@@ -19,7 +19,7 @@ KrishiGPT leverages advanced AIML techniques to deliver accurate and context-awa
 ### Tech Stack
 - **Model**: Fine-tuned **Llama-2-7b-chat-hf** using HuggingFace Transformers.
 - **Languages**: Python
-- **Frameworks**: Flask
+- **Frameworks**: Flask (for API creation)
 - **Data Handling**: Pandas
 - **Libraries**: HuggingFace Transformers
 
